@@ -3,7 +3,7 @@
 An interactive web-based quantum circuit simulator that allows users to explore and understand basic quantum computing concepts through visual representations and real-time state analysis.
 
 ![Quantum Circuit Simulator](./public/quantum.svg)
-
+![Quantum Circuit Simulator](https://github.com/dhruba-j-das-git/Quantum-Circuit-Simulator/Image 2024-12-13 at 00.36.52_26aaa856.jpg)   
 ## Features
 
 - **Interactive Quantum Gates**
