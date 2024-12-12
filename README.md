@@ -3,7 +3,9 @@
 An interactive web-based quantum circuit simulator that allows users to explore and understand basic quantum computing concepts through visual representations and real-time state analysis.
 
 ![Quantum Circuit Simulator](./public/quantum.svg)
-![App Screenshot](Imagea.jpg)   
+![App Screenshot](Imagea.jpg) 
+![App Screenshot](Imageb.jpg)   
+![App Screenshot](Imagec.jpg)   
 ## Features
 
 - **Interactive Quantum Gates**
